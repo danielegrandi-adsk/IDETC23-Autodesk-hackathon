@@ -17,7 +17,7 @@ In this challenge, your task is to come up with an open-ended solution to identi
 
 
 ## Dataset
-- [Download instructions]().
+- [Download instructions](). Please note that the dataset has been modified for this hackathon, and you should only use data from the previous download instructions in your implementation.
 - **Dataset Specifications:** Please refer to [the original documentation](https://github.com/AutodeskAILab/Fusion360GalleryDataset/blob/master/docs/assembly.md) for information about the structure of the data in `assembly.json` and to find out more about the features in the dataset.
 
 
