@@ -1,4 +1,9 @@
 # 2023 IDETC Hackathon <br /> Automating Material Selection for Product Design   
+
+<div>
+<img src="overview.png" width="500"/>
+</div>
+
 Welcome to the Autodesk problem statement for the 2023 IDETC hackathon!
 
 In this challenge, your task is to come up with an open-ended solution to identify an appropriate material for a set of parts, based on their CAD geometries and assembly context. 
