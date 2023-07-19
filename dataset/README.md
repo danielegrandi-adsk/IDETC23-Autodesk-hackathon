@@ -44,7 +44,7 @@ and then extract the archives:
 ```
 
 ## Download and Extraction Script
-We provide the python script [assembly_download.py](assembly_download.py) to download and extract all archive files. 
+We provide the python script [assembly_download.py](train_dataset_download.py) to download and extract all archive files. 
 
 ### Installation
 The script calls [7-Zip](https://www.7-zip.org) directly so if you encounter problems, ensure the path is set correctly in the `get_7z_path()` function or `7z` is present in your linux path. To run the script you will need the following python libraries that can be installed using `pip`:
