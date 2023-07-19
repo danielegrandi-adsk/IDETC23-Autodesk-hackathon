@@ -18,7 +18,7 @@ In this challenge, your task is to come up with an open-ended solution to identi
 
 
 ## Dataset
-- [Download instructions](). Please note that the dataset has been modified for this hackathon, and you should only use data from these download instructions in your implementation.
+- [Download instructions](dataset). Please note that the dataset has been modified for this hackathon, and you should only use data from these download instructions in your implementation.
 - The hackathon's goal is to predict the `material_category` for each body in the test set (released during the hackathon). The train data contains material category labels for each body of each assembly in the `assembly.json` files.
 - **Dataset Specifications:** Please refer to [the original documentation](https://github.com/AutodeskAILab/Fusion360GalleryDataset/blob/master/docs/assembly.md) for information about the structure of the data in `assembly.json` and to find out more about the features in the dataset.
 
