@@ -57,7 +57,7 @@ The script calls [7-Zip](https://www.7-zip.org) directly so if you encounter pro
 The script can be run by passing in the output directory where the files will be extracted to. 
 
 ```
-python assembly_download.py --output path/to/files
+python train_dataset_download.py --output path/to/files
 ```
 Additionally the following optional arguments can be passed:
 - `--limit`: Limit the number of archive files to download.
