@@ -28,7 +28,7 @@ In this challenge, your task is to come up with an open-ended solution to identi
 - **Dataset Specifications:** Please refer to [the original documentation](https://github.com/AutodeskAILab/Fusion360GalleryDataset/blob/master/docs/assembly.md) for information about the structure of the data in `assembly.json` and to find out more about the features in the dataset.
 
 ## Baseline 
-- A GPT-based baseline can be found [here](baseline).
+- A GPT-based baseline can be found [here](baseline/gpt_baseline.ipynb).
 - This can serve as an example of how to extract useful features from the data, and how to evaluate the method.
 
 ## Submission
