@@ -110,7 +110,7 @@ def extract_file(zip_path, local_file, assembly_dir):
 def extract_files(zip_path, local_files, output_dir):
     """Extract all files"""
     # Make a sub directory for the assembly files
-    assembly_dir = output_dir / "assembly"
+    assembly_dir = output_dir
     if not assembly_dir.exists():
         assembly_dir.mkdir(parents=True)
     results = []
