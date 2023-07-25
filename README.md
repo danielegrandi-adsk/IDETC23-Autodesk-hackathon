@@ -25,7 +25,8 @@ In this challenge, your task is to come up with an open-ended solution to identi
 
 ## Dataset
 - [Download instructions](dataset). Please note that the dataset has been modified for this hackathon, and you should only use data from these download instructions in your implementation.
-- **Dataset Specifications:** Please refer to [the original documentation](https://github.com/AutodeskAILab/Fusion360GalleryDataset/blob/master/docs/assembly.md) for information about the structure of the data in `assembly.json` and to find out more about the features in the dataset.
+  - The data has been modified to include in each `assembly.json` file a `material_category` label for each body. This label, which describes the material category of the body as defined in the table above, can be used to train your model.
+- **Dataset Specifications:** Please refer to [the original documentation](https://github.com/AutodeskAILab/Fusion360GalleryDataset/blob/master/docs/assembly.md) of the Fusion 360 Gallery Dataset for information about the structure of the data in `assembly.json` and to find out more about the features in the dataset.
 
 ## Baseline 
 - A GPT-based baseline can be found [here](baseline/gpt_baseline.ipynb).
