@@ -33,4 +33,4 @@ In this challenge, your task is to come up with an open-ended solution to identi
 - This can serve as an example of how to extract useful features from the data, and how to evaluate the method.
 
 ## Submission
-- [Submission script]().
+- [Submission instructions](submission).
