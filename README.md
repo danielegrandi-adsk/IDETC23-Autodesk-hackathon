@@ -20,7 +20,7 @@ In this challenge, your task is to come up with an open-ended solution to identi
 
 ## Problem Statement
 - The hackathon's goal is to predict the `material_category` for each body in the [test set](dataset/test_data) (released during the hackathon). The [train data](dataset) contains material category labels for each body of each assembly in the `assembly.json` files.
-- [Link to PDF]().
+- [Link to PDF](Autodesk%20Hackathon%20Problem%20Statement%202023.pdf) with more information.
 
 
 ## Dataset
