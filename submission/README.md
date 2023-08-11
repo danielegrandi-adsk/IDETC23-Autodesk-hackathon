@@ -1,8 +1,8 @@
 # Submission Instructions
 
-Towards the end of the event we will publish here a CSV file which you will use to submit your results.
+[This is the CSV file which you will use to submit your results](submission_TEAM_NAME.csv).
 
-The CSV file will contain 3 columns (`assembly_id`, `body_id`, and `material_category`), and 155 lines corresponding to the 155 bodies in the [test dataset](../dataset/test_data).
+The CSV file contains 3 columns (`assembly_id`, `body_id`, and `material_category`), and 155 lines corresponding to the 155 bodies in the [test dataset](../dataset/test_data).
 
 Together with the final presentation, you will also upload to your public github repo a copy of the CSV.
 Your job is to choose a `material_category` (from the following table) for each of the bodies in the test assemblies.
