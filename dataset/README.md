@@ -1,5 +1,8 @@
 # Train Dataset Download
-The train dataset is provided as a series of 7z archives. The size of the dataset is 120 GB and 18.8 GB compressed.
+The train dataset is provided as a series of 7z archives. 
+
+The size of the dataset is 120 GB and 18.8 GB compressed.
+There are 6336 folders in the dataset, corresponding to the 6336 folders in the training set.
 
 
 We provide a script to download and extract the files below.
