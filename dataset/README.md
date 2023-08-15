@@ -43,7 +43,7 @@ tar -xf 7z2106-linux-x64.tar.xz
 ```
 and then extract the archives:
 ```
-7zz x Fusion360GalleryDataset_23hackathon_train_00.7z 
+7zz x Fusion360GalleryDataset_23hackathon_train.7z.001 
 ```
 
 ## Download and Extraction Script
