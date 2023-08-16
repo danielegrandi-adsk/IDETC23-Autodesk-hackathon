@@ -27,6 +27,8 @@ Below are the links to directly download each of the archive files.
 ## Extraction
 To extract each archive requires a tool that supports the 7z compression format.
 
+**`To extract all the data please make sure that all 10 7z files are in the same directory. Extracting the first one should then extract data from all 10, resulting in 6336 folders.`**
+
 ### Mac OS
 On recent versions of Mac OS, 7z is supported natively.
 
@@ -43,7 +45,7 @@ tar -xf 7z2106-linux-x64.tar.xz
 ```
 and then extract the archives:
 ```
-7zz x Fusion360GalleryDataset_23hackathon_train_00.7z 
+7zz x Fusion360GalleryDataset_23hackathon_train.7z.001 
 ```
 
 ## Download and Extraction Script
